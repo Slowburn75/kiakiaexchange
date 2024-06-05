@@ -1,0 +1,234 @@
+.button{
+	background-image: linear-gradient(to left, #008aff 30%, #04f2f2 70%);
+	color: white;
+	width: 250px;
+	height: 40px;
+    border-radius: 10px;
+    border: 0ch;
+    width: 100%;
+}
+.butto{
+    background-image: linear-gradient(to left, #008aff 30%, #04f2f2 70%);
+	color: white;
+	width: 150px;
+	height: 40px;
+    border-radius: 10px;
+    border: 0ch;
+}
+.input[type=text]{
+width: 100%;
+padding: auto;
+margin: 8px 0;
+box-sizing: border-box;
+}
+.homepage{
+padding-top: 5%;
+}
+.page{
+   padding-left: 40%;
+}
+.why{
+   padding-left: 12%;
+}
+.num{
+    padding-top: 5%;
+    font-size: 50px;
+}
+/**About**/
+.arrow{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.question{
+    text-align: center;
+    padding-top: 4%;
+    font-size: 20px;
+}
+.answer{
+    text-align: center;
+    padding-top: 1%;
+}
+.pic{
+    padding-top: 3%;
+}
+.button-now{
+    background-image: linear-gradient(to left, #008aff 30%, #04f2f2 70%);
+    color: white;
+    width: 350px;
+    height: 50px;
+    border-radius: 10px;
+    border: 0ch;
+    padding-left: 35%;
+}
+.trade{
+    padding-top: 5%;
+}
+.answer1{
+    padding-left: 22%;
+    padding-top: 1%;
+}
+.box{
+    padding-top: 20%;
+}
+.answer2{
+    padding-top: 1%;
+    text-align: center;
+}
+.form{
+    background-image: url(../img/KIAKIA\ pattern\ 2.png);
+    background-position:left;
+    background-repeat:no-repeat ;
+    box-sizing: border-box;
+    position: relative;
+    border-radius: 20px;
+    padding-bottom: 50px;
+}
+.contain{
+    margin: 20px;
+    padding: 10px;
+    background-color: white;
+    border-radius: 10px;
+    height: auto;
+    width: 360px;
+    margin-right: 5px;
+}
+input,textarea{
+    width: 100%;
+    border-width: medium;
+    border-radius: 10px;
+}
+.btnn{
+    background-color:darkslategray;
+    color: white;
+    cursor: pointer;
+    border-radius: 10px;
+    width: 100%;
+    height: 40px;
+}
+.img-box{
+    width: 100%;
+}
+.buttn{
+    background-color:darkslategray;
+	color: white;
+	width: 30%;
+	height: 40px;
+    border-radius: 10px;
+    border: 0ch;
+}
+.shift{
+    margin-top: 70px;
+}
+.learn{
+    background-image: linear-gradient(to left, #008aff 30%, #04f2f2 70%);
+}
+.d-flex{
+    color: white;
+    padding: 16px 20px;
+    border: none;
+    cursor: pointer;
+    border-radius: 10px;
+    vertical-align: middle;
+}
+.fle{
+ width: 50%;  
+ border-radius: 10px;
+ border: black;
+ padding: 16px 20px;
+ display: block;
+margin-left: auto;
+margin-right: auto;
+}
+.burn{
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 400px;
+height: 400px;
+}
+.phone{
+    display: block;
+margin-left: auto;
+margin-right: auto;
+}
+.phones{
+    display: block;
+margin-left: auto;
+margin-right: auto;
+}
+.detail-box{
+    text-align: center;
+}
+.join-btn{
+    text-align: center;
+    padding-top: 50px;
+}
+.burnt{
+   margin: auto;
+   width: 100%;
+   padding: 30px;
+   padding: auto;
+}
+.burn{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.learn{
+    padding-top: 40px;
+}
+.foot{
+    text-align: center;
+}
+.icon{
+    width: 100%;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    margin-top: 25px;
+}
+span::before{
+    content: "Cryptocurrency";
+    animation: animate infinite 5s;
+    color:#04f2f2
+}
+@keyframes animate{
+    0%{
+        content: "Cryptocurrency";
+    }
+    50%{
+        content: "Giftcards";
+    }
+    75%{
+        content: "NFTs";
+    }
+}
+body{
+    background-color: white;
+    color: black;
+}
+.dark-mode{
+    background-color: black;
+    color: white;
+}
+.nav-item{
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.na{
+    width: 35px;
+    height: 5px;
+    background-color: #008aff;
+    margin: 6px 0;
+}
+.nav-item .button{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.container{
+    padding: 0px;
+}
